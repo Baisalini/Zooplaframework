@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object test example" duration-ms="137997" started-at="2019-05-11T06:50:15Z" finished-at="2019-05-11T06:52:33Z">
+    <groups>
+    </groups>
+    <test name="sample test" duration-ms="137997" started-at="2019-05-11T06:50:15Z" finished-at="2019-05-11T06:52:33Z">
+      <class name="Testpages.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpages.HomepageTest@5d5eef3d]" name="setup" is-config="true" duration-ms="61378" started-at="2019-05-11T12:20:15Z" finished-at="2019-05-11T12:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyhomepage()[pri:0, instance:Testpages.HomepageTest@5d5eef3d]" name="verifyhomepage" duration-ms="76579" started-at="2019-05-11T12:21:16Z" finished-at="2019-05-11T12:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepage -->
+      </class> <!-- Testpages.HomepageTest -->
+    </test> <!-- sample test -->
+  </suite> <!-- Page Object test example -->
+</testng-results>
